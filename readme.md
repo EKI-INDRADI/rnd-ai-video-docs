@@ -8,6 +8,9 @@ https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/8cbb26cf-b37b-4
 
 [VIDEO](https://www.youtube.com/watch?v=-R-TvrdyYxs)
 
+![___2984248520521109861_7959880316](https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/c6c3c2dd-181f-4b29-9c8f-a5bc3001237a)
+
+[PICTURE](https://www.instagram.com/jeonjongseo_fanpage)
 [AUDIO](https://www.netflix.com)
 
 ```sh
