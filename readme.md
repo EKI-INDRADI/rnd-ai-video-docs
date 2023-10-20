@@ -1,5 +1,6 @@
 ## EKI INDRADI 2023 | RND AI VIDEO 
 
+https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/4333c8ea-9b2a-41be-962d-29d5b35fd950
 
 <details>
   <summary>Original File</summary>
