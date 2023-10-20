@@ -11,6 +11,9 @@ https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/8cbb26cf-b37b-4
 ![___2984248520521109861_7959880316](https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/c6c3c2dd-181f-4b29-9c8f-a5bc3001237a)
 
 [PICTURE](https://www.instagram.com/jeonjongseo_fanpage)
+
+https://github.com/EKI-INDRADI/rnd-ai-video-docs/blob/main/__MONEY_HEIST_KOREA_TOKYO_DUBBED_INDONESIAN.wav
+
 [AUDIO](https://www.netflix.com)
 
 ```sh
