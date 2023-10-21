@@ -42,7 +42,7 @@ https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/f4843327-c787-4
 
 Tutorial :
 
-#pending
+baca readme.md dokumentasi terkait ya jangan males
 
 ```
 
@@ -60,7 +60,7 @@ https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/f22400cd-3af2-4
 
 Tutorial :
 
-#pending
+baca readme.md dokumentasi terkait ya jangan males
 
 ```
 
@@ -79,7 +79,7 @@ https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/a4e7826c-7dfe-4
 
 Tutorial :
 
-#pending
+baca readme.md dokumentasi terkait ya jangan males
 
 ```
 
