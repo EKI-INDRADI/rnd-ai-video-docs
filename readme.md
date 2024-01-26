@@ -85,12 +85,48 @@ baca readme.md dokumentasi terkait ya jangan males
 
 </details>
 
+## ---------------------- 2024
+
+<details>
+  <summary>TOPAZ VIDEO AI v4</summary
+                              
+[TOPAZ VIDEO AI](https://www.topazlabs.com/topaz-video-ai)
+
+alternative :
+
+[REAL-ESRGAN](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)
+[REALSR]](https://github.com/nihui/realsr-ncnn-vulkan)
+
+
+```sh
+
+Tutorial :
+
+baca readme.md dokumentasi terkait ya jangan males
+
+```
+
+</details>
+
+<details>
+  <summary>TENCENT ARC - GFPGAN</summary>
+
+https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/586bbab8-bddb-4300-91d3-3b3a6dc89397
+
+[GITHUB](https://github.com/TencentARC/GFPGAN)
+
+```sh
+
+Tutorial :
+
+baca readme.md dokumentasi terkait ya jangan males
+
+```
+
+</details>
 
 
 ## EKI INDRADI
 
 "TIME > KNOWLEDGE > MONEY". #2024_3_DIGIT_MOTIVATION
-
-
-
 
