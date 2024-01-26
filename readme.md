@@ -112,8 +112,11 @@ VIDEO ENHANCER :
 FACE ENHANCER : 
 
 [CODEFORMER](https://replicate.com/sczhou/codeformer)
+
 [GFPGAN](https://github.com/TencentARC/GFPGAN)
+
 [GPEN](https://github.com/yangxy/GPEN)
+
 [FACE FUSION](https://github.com/facefusion/facefusion)
 
 RESULT :
