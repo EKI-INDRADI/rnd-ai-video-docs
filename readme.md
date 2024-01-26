@@ -89,13 +89,6 @@ baca readme.md dokumentasi terkait ya jangan males
 
 <details>
   <summary>TOPAZ VIDEO AI v4</summary
-                              
-[TOPAZ VIDEO AI](https://www.topazlabs.com/topaz-video-ai)
-
-alternative :
-
-[REAL-ESRGAN](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)
-[REALSR]](https://github.com/nihui/realsr-ncnn-vulkan)
 
 
 ```sh
@@ -109,11 +102,28 @@ baca readme.md dokumentasi terkait ya jangan males
 </details>
 
 <details>
-  <summary>TENCENT ARC - GFPGAN</summary>
+  <summary>TOPAZ VIDEO AI v4 (VIDEO ENHANCER) + TENCENT ARC - GFPGAN (FACE ENHANCER)</summary>
+
+VIDEO ENHANCER : 
+                              
+[TOPAZ VIDEO AI](https://www.topazlabs.com/topaz-video-ai)
+
+[REAL-ESRGAN](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)
+
+[REALSR]](https://github.com/nihui/realsr-ncnn-vulkan)
+
+[SRMD](https://github.com/k4yt3x/video2x)
+
+[WAIFU2X](https://github.com/k4yt3x/video2x)
+
+
+FACE ENHANCER : 
 
 https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/586bbab8-bddb-4300-91d3-3b3a6dc89397
 
-[GITHUB](https://github.com/TencentARC/GFPGAN)
+[GFPGAN](https://github.com/TencentARC/GFPGAN)
+
+[FACE FUSION](https://github.com/facefusion/facefusion)
 
 ```sh
 
