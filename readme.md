@@ -102,7 +102,7 @@ VIDEO ENHANCER :
 
 [REAL-ESRGAN](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)
 
-[REALSR]](https://github.com/nihui/realsr-ncnn-vulkan)
+[REALSR](https://github.com/nihui/realsr-ncnn-vulkan)
 
 [SRMD](https://github.com/k4yt3x/video2x)
 
