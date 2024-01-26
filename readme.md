@@ -1,13 +1,17 @@
 ## EKI INDRADI 2023 | RND AI VIDEO 
 
-https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/4333c8ea-9b2a-41be-962d-29d5b35fd950
+
+https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/42910398-1501-4bd8-aa96-708d44043de5
+
 
 Tutorial ini hanya digunakan untuk pembelajaran saja, harapkan tidak disalah gunakan trmksih.
+NOTE : TEKNOLOGI BNYK DISALAH GUNAKAN 
 
 <details>
   <summary>Original File</summary>
 
 https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/8cbb26cf-b37b-49f0-830c-48db09ab28dc
+
 
 [VIDEO](https://www.youtube.com/watch?v=-R-TvrdyYxs)
 
@@ -85,21 +89,9 @@ baca readme.md dokumentasi terkait ya jangan males
 
 </details>
 
-## ---------------------- 2024
+## ---------------------- 2023->2024
 
-<details>
-  <summary>TOPAZ VIDEO AI v4</summary
-
-
-```sh
-
-Tutorial :
-
-baca readme.md dokumentasi terkait ya jangan males
-
-```
-
-</details>
+NOTE : MAKIN MERESAHKAN
 
 <details>
   <summary>TOPAZ VIDEO AI v4 (VIDEO ENHANCER) + TENCENT ARC - GFPGAN (FACE ENHANCER)</summary>
@@ -119,13 +111,15 @@ VIDEO ENHANCER :
 
 FACE ENHANCER : 
 
-https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/586bbab8-bddb-4300-91d3-3b3a6dc89397
-
+[CODEFORMER](https://replicate.com/sczhou/codeformer)
 [GFPGAN](https://github.com/TencentARC/GFPGAN)
-
+[GPEN](https://github.com/yangxy/GPEN)
 [FACE FUSION](https://github.com/facefusion/facefusion)
 
-```sh
+RESULT :
+
+https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/586bbab8-bddb-4300-91d3-3b3a6dc89397
+
 
 Tutorial :
 
