@@ -121,6 +121,8 @@ RESULT :
 https://github.com/EKI-INDRADI/rnd-ai-video-docs/assets/47073420/586bbab8-bddb-4300-91d3-3b3a6dc89397
 
 
+```sh
+
 Tutorial :
 
 baca readme.md dokumentasi terkait ya jangan males
